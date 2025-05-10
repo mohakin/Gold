@@ -1,0 +1,13 @@
+# Main app configuration
+appID = "com.example.gold"
+name = "Gold"
+version = "1.0.0"
+
+# Optional configuration
+icon = "Icon.png"
+fyne = "2.4.0"
+
+[repository]
+type = "git"
+url = ""
+
